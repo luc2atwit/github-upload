@@ -1,1 +1,1 @@
-# gitgub-upload
+# github-upload
